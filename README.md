@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # Sensor Fusion using Error State Extended Kalman Filter for Pose-Estimation of Self-Driving-Car
 
 ## Project Description
