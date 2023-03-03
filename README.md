@@ -1,4 +1,4 @@
-# Sensor-Fusion-Using-Error-State-Extended-Kalman-Filter-For-Pose-Estimation-of-Self-Driving-Car
+# Sensor Fusion using Error State Extended Kalman Filter for Pose-Estimation of Self-Driving-Car
 
 ## Project Description
 
